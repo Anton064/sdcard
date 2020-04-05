@@ -1,4 +1,6 @@
 # sdcard
-echo Hello, world!
-echo Add other actions to build,
-echo test, and deploy your project.
+Hello, world!
+Add other actions to build,
+test, and deploy your project.
+# test
+привет я Антон
